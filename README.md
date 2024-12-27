@@ -5,3 +5,5 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
 </div>
 
 ---
+
+## 임상진단 실습을 위한 NLP 시스템
