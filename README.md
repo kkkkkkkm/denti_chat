@@ -10,7 +10,7 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
 
 임상진단 
 
-<img src = https://github.com/kkkkkkkm/denti_chat/blob/main/img/denti_chat.png width = "100%" height = "100%">
+<img src = https://github.com/kkkkkkkm/denti_chat/blob/main/img/den.png width = "100%" height = "100%">
 
 
 
