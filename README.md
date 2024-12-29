@@ -12,6 +12,8 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
 
 * 본 연구에서는 이러한 문제를 해결하기 위해 딥러닝을 활용하여 배우를 대체하는 방안을 제안합니다. 이를 위해 Conformer 모델을 활용하여 AI 환자를 구현하고, 진단 질문에 대한 응답 데이터를 수집하기 위해 한국어 표준화 환자 시나리오 데이터 생성기를 개발하였습니다. 이 생성기는 미리 준비된 질문과 답변을 기반으로, 제공된 환자 정보를 토대로 시나리오를 자동으로 생성하도록 설계되었습니다.
 
+</br>
+
 <img src = https://github.com/kkkkkkkm/denti_chat/blob/main/img/den.png width = "100%" height = "100%">
 
 
