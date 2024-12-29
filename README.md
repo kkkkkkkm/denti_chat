@@ -10,6 +10,10 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
 abstract,
 그림 추가
 
+<img src = https://github.com/kkkkkkkm/denti_chat/blob/main/img/denti_chat.png width = "100%" height = "100%">
+
+
+
 
 ## File
 * chatbot_lib.ipynb:
