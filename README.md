@@ -61,13 +61,13 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
   * 모델 구조와 학습된 파라미터 
 
 * chatbot_model.ipynb:
-  * Transformer 기반 모델 학습
+  * Transformer 기반 모델 학습 코드
 
 * chatbot_model_Conformer_submit.ipynb:
-  * Conformer 기반 모델 학습 
+  * Conformer 기반 모델 학습 코드
 
 * co_chatbot.ipynb:
   * 추론 모델 load 후 질의응답 
 
 * preprocessing_soy_embedding.ipynb:
-  * 단어 임베딩 및 맞춤법 모델 학습
+  * 단어 임베딩 및 맞춤법 모델 학습 코드
