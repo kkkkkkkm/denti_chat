@@ -35,12 +35,12 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
 
 </br>
 
-**Transformer와 Conformer 모델의 학습 트렌드 비교**
 
 <div align="center">
  
 <img src = https://github.com/kkkkkkkm/denti_chat/blob/main/img/Denti_chat_models.png width = "50%" height = "50%">
 
+**Transformer와 Conformer 모델의 학습 트렌드 비교**
 </div>
 
 
