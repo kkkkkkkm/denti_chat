@@ -58,7 +58,7 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
 
 ## File
 * chatbot_lib.ipynb:
-  * 모델 구조와 학습된 파라미터를 불러오는 추론용 
+  * 모델 구조와 학습된 파라미터 
 
 * chatbot_model.ipynb:
   * Transformer 기반 모델 학습
