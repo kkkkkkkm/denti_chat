@@ -16,6 +16,7 @@ MDPI Bioengineering: [Conformer-Based Dental AI Patient Clinical Diagnosis Simul
 
 </div>
 
+</br>
 
 * 임상실습 교육의 목표는 임상 환경에서 이론적 지식을 실제로 적용하는 능력을 함양하고, 전문 의료인으로서의 성장을 촉진하는 데 있습니다. 이를 효과적으로 달성하는 방법 중 하나는 표준화 환자(Standardized Patient, SP)를 활용하여 학생들이 실제 환자 인터뷰에 익숙해지도록 하고, 교육자가 임상 수행 기술을 평가할 수 있도록 하는 것입니다. 그러나 표준화 환자를 활용하는 교육은 배우 고용에 따른 비용과 이들을 교육할 전문 교육자의 부족이라는 과제에 직면하고 있습니다.
 
